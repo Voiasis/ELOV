@@ -21,10 +21,10 @@ from PIL import Image, ImageTk
 import urllib.request
 
 # Config file location
-CONFIG_DIR = os.path.expanduser("~/.config/VoisLOVE")
-CONFIG_FILE = os.path.join(CONFIG_DIR, "vois_love_config.json")
-ICON_PATH = os.path.join(CONFIG_DIR, "heart.png")
-ICON_URL = "https://raw.githubusercontent.com/Voiasis/VoisLOVE/refs/heads/main/heart.png"
+CONFIG_DIR = os.path.expanduser("~/.config/ELOV")
+CONFIG_FILE = os.path.join(CONFIG_DIR, "ELOV_config.json")
+ICON_PATH = os.path.join(CONFIG_DIR, "ELOV.png")
+ICON_URL = "https://raw.githubusercontent.com/Voiasis/ELOV/refs/heads/main/ELOV.png"
 
 # Cache for primary GPU
 primary_gpu_cache = None
