@@ -1,0 +1,1 @@
+This project was meant to be a recreation of another popular VRC OSC but I decided to swap languages and not finish it. Decided to upload this for the time being so others can use or edit it for themselves.
